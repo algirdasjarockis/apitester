@@ -11,7 +11,7 @@ API's methods.
 
 It is command line tool, help text is below:
 
-<code>
+<pre>
 XML-RPC API tester
 
 positional arguments:
@@ -41,4 +41,4 @@ optional arguments:
                         to production db instead of test, use with caution                                                                                                                                                                                                     
   --ignore-db           Ignore and do not execute ANY DB operation                                                                                                                                                                                                             
   -e, --exit-after-db   Exits after DB dump or import actions     
-</code>
+</pre>
